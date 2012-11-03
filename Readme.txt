@@ -1,5 +1,6 @@
 A header by ALF
 
+John Keats from the poem Endymion:
 Here will I kneel, for thou redeemed hast
 My life from too thin breathing: gone and past
 Are cloudy phantasms. Caverns lone, farewel!
