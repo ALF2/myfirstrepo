@@ -1,2 +1,2 @@
 Das ist mein erster Test-Text, den ich im Git-Ordner speichere.
-Ergänzungen um 13:37
+Ergänzungen um 13:37v
